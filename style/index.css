@@ -1,0 +1,42 @@
+.intro-2 {
+    background: url("../images/iphone_se.jpg")no-repeat center center;
+    background-color: #131313;
+    background-size: 1000px;
+    font-size: 60px;
+    font-weight: bold; 
+    color: white;
+    
+}
+
+.intro-2 h1 {
+
+    font-size: 60px;
+
+}
+.card{
+    background-color: #131313;
+
+}
+
+
+.card-title{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.card-text{
+    text-align: center;
+    font-size: 18px;
+    color: white;
+}
+
+.footer{
+    background-color: black;
+    background-size: 4px;
+}
+
+html,body,header,.view {
+    height: 100%;
+}
